@@ -1,5 +1,5 @@
 # satellite-ibm
-
+ 
 Use this terraform automation to set up IBM Cloud satellite location for Virtual Server Instances of IBM VPC Infrastructure.
 
 This example uses two modules to set up the control plane.
